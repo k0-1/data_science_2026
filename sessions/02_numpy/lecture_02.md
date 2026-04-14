@@ -256,26 +256,26 @@ numpy_array = np.arange(1000000)
 <details>
 <summary>  解答例を見る（クリックで展開）</summary>
 
-0. 
-```python
-np.arange(2, 21, 2)
-# 出力 array([ 2,  4,  6,  8, 10, 12, 14, 16, 18, 20])
-```
-1. 
-```python
-data = np.arange(1, 101)
-data
-# 出力 array([1, 2, 中略, 100])
-```
-2. 
-```python
-data * 3
-# 出力 array([3, 6, 中略, 300])
-```
-3. 
-```python
-print(data.sum())
-```
+>0. 
+>```python
+>np.arange(2, 21, 2)
+># 出力 array([ 2,  4,  6,  8, 10, 12, 14, 16, 18, 20])
+>```
+>1. 
+>```python
+>data = np.arange(1, 101)
+>data
+># 出力 array([1, 2, 中略, 100])
+>```
+>2. 
+>```python
+>data * 3
+># 出力 array([3, 6, 中略, 300])
+>```
+>3. 
+>```python
+>print(data.sum())
+>```
 
 </details>
 
