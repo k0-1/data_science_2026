@@ -6,7 +6,7 @@
 
 | 回 | テーマ | 資料リンク | Colabで開く |
 |:---|:---|:---|:---:|
-| 第2回 | NumPyを用いた数値計算1 | [lecture_02.md](./sessions/02_numpy/lecture_02.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/02_numpy/lecture_02.md) |
+| 第2回 | NumPyを用いた数値計算1 | [lecture_02.md](./sessions/02_numpy/lecture_02.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/02_numpy/lecture_02.ipynb) |
 | 第3回 | NumPyを用いた数値計算2 | (近日公開) | - |
 
 ##  使いかた
