@@ -1,3 +1,10 @@
+---
+jupyter:
+  jupytext:
+    cell_metadata_filter: -all
+    formats: md:ipynb
+---
+
 # numpyを用いた数値計算
 
 データサイエンスにおいて数値計算は基本的な技術要素です．
