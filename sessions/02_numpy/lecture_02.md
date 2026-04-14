@@ -117,14 +117,11 @@ print(np.arange(1,10,2))
 
 <details>
 <summary>  解答例を見る（クリックで展開）</summary>
-
 0. 
-
 ```python
 print(np.zeros(10))
 # 出力 [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
 ```
-
 1. 
 ```python
 print(np.ones(10))
@@ -135,7 +132,6 @@ print(np.ones(10))
 print(np.arange(-3, 4))
 # 出力 [-3 -2 -1  0  1  2  3]
 ```
-
 3. 
 ```python
 print(np.arange(2, 21, 2))
@@ -223,16 +219,16 @@ python_list = list(range(1000000))
 # すべての要素を2倍にする時間を計測
 %timeit [x * 2 for x in python_list]
 
-# 出力例　56.2 ms ± 649 µs per loop (mean ± std. dev. of 7 runs, 10 loops each)
+# 出力例　56.2 ms ± 649 μs per loop (mean ± std. dev. of 7 runs, 10 loops each)
 ```
 
 結果の読み方解説: 
-56.2 ms ± 649 µs per loop
+56.2 ms ± 649 μs per loop
 （平均 56.2ミリ秒、バラつき 649マイクロ秒）
 
 56.2 ms (ミリ秒): 1回の計算にかかった平均時間
 
-± 649 µs (マイクロ秒): 1000分の1ミリ秒単位の細かい「誤差（ブレ）」
+± 649 μs (マイクロ秒): 1000分の1ミリ秒単位の細かい「誤差（ブレ）」
 
 7 runs, 10 loops: 精度を高くするために、コンピュータが裏側で「10回連続の計算」を「7セット」合計70回も試した．
 
@@ -243,7 +239,7 @@ numpy_array = np.arange(1000000)
 
 # すべての要素を2倍にする時間を計測
 %timeit numpy_array * 2
-# 出力例　1.01 ms ± 128 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+# 出力例　1.01 ms ± 128 μs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
 ```
 
 平均1.01ms(ミリ秒)なので，約50倍速いことがわかる．
@@ -258,14 +254,11 @@ numpy_array = np.arange(1000000)
 
 <details>
 <summary>  解答例を見る（クリックで展開）</summary>
-
 0. 
-
 ```python
 np.arange(2, 21, 2)
 # 出力 array([ 2,  4,  6,  8, 10, 12, 14, 16, 18, 20])
 ```
-
 1. 
 ```python
 data = np.arange(1, 101)
@@ -277,7 +270,6 @@ data
 data * 3
 # 出力 array([3, 6, 中略, 300])
 ```
-
 3. 
 ```python
 print(data.sum())
