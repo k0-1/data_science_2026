@@ -117,6 +117,7 @@ print(np.arange(1,10,2))
 
 <details>
 <summary>  解答例を見る（クリックで展開）</summary>
+
 0. 
 ```python
 print(np.zeros(10))
@@ -254,6 +255,7 @@ numpy_array = np.arange(1000000)
 
 <details>
 <summary>  解答例を見る（クリックで展開）</summary>
+
 0. 
 ```python
 np.arange(2, 21, 2)
@@ -274,6 +276,7 @@ data * 3
 ```python
 print(data.sum())
 ```
+
 </details>
 
 #### 発展問題１
