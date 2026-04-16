@@ -275,8 +275,8 @@ numpy_array = np.arange(1000000)
 >3. 
 >```python
 >print((data * 3).sum())
->```
 ># 出力 15150
+>```
 
 </details>
 
