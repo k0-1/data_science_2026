@@ -258,24 +258,25 @@ numpy_array = np.arange(1000000)
 
 >0. 
 >```python
->np.arange(2, 21, 2)
-># 出力 array([ 2,  4,  6,  8, 10, 12, 14, 16, 18, 20])
+>print(np.arange(2, 21, 2))
+># 出力 [ 2  4  6  8 10 12 14 16 18 20]
 >```
 >1. 
 >```python
 >data = np.arange(1, 101)
->data
-># 出力 array([1, 2, 中略, 100])
+>print(data)
+># 出力 [  1  2 中略 100]
 >```
 >2. 
 >```python
->data * 3
-># 出力 array([3, 6, 中略, 300])
+>print(data * 3)
+># 出力 [3 6 中略 300])
 >```
 >3. 
 >```python
->print(data.sum())
+>print((data * 3).sum())
 >```
+># 出力 15150
 
 </details>
 
