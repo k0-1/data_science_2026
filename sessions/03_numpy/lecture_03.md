@@ -285,11 +285,14 @@ NumPyの長所の一つは，行方向や列方向を指定して一気に集計
 ```python
 data = np.array([[1, 2], [3, 4]])
 
+print(data) # 行列の表示
 print(data.mean()) # 全体の平均
 print(data.mean(axis=0)) # 列ごとの平均
 print(data.mean(axis=1)) # 行ごとの平均
 print(data.sum(axis=1)) # 行ごとの和
 # 出力
+# [[1 2]
+#  [3 4]]
 # 2.5
 # [2. 3.]
 # [1.5 3.5]
