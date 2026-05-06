@@ -8,6 +8,7 @@
 |:---|:---|:---|:---:|
 | 第2回 | NumPyを用いた数値計算1 | [lecture_02.md](./sessions/02_numpy/lecture_02.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/02_numpy/lecture_02.ipynb) |
 | 第3回 | NumPyを用いた数値計算2 | [lecture_03.md](./sessions/03_numpy/lecture_03.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/03_numpy/lecture_03.ipynb) |
+| 第4回 | NumPyを用いた数値計算3 | [lecture_04.md](./sessions/04_numpy/lecture_04.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/04_numpy/lecture_04.ipynb) |
 
 ##  使いかた
 1. **閲覧**: 上記の「資料リンク」をクリックしてMarkdownを読みます．
