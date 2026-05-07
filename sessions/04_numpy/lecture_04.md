@@ -87,7 +87,7 @@ $n$ 次元ベクトル $x$ (sizeが $n$ のndarray) に $m\times n$ の行列を
 
 例えば 
 
-$$A x=\begin{pmatrix}1 & 2\\ 3 & 4\end{pmatrix}\begin{pmatrix}1\\2 \end{pmatrix}=\begin{pmatrix}5\\11 \end{pmatrix}$$
+$$A x=\begin{pmatrix}1 & 2 \\\ 3 & 4\end{pmatrix}\begin{pmatrix}1 \\\2 \end{pmatrix}=\begin{pmatrix}5 \\\11 \end{pmatrix}$$
 
 の計算は次のように書ける．
 ```python
