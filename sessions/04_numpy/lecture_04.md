@@ -85,7 +85,11 @@ print(2*A)
 $n$ 次元ベクトル $x$ (sizeが $n$ のndarray) に $m\times n$ の行列をかけることができる．
 このとき， $x$ は $n\times 1$ 行列と解釈される．
 
-例えば $A x=\begin{pmatrix}1 & 2\\ 3 & 4\end{pmatrix}\begin{pmatrix}1\\2 \end{pmatrix}=\begin{pmatrix}5\\11 \end{pmatrix}$ の計算は次のように書ける．
+例えば 
+
+$$A x=\begin{pmatrix}1 & 2\\ 3 & 4\end{pmatrix}\begin{pmatrix}1\\2 \end{pmatrix}=\begin{pmatrix}5\\11 \end{pmatrix}$$
+
+の計算は次のように書ける．
 ```python
 x = np.array([1,2])
 print(A@x)
@@ -97,9 +101,9 @@ print(A@x)
 ### 練習問題1
 $3\times 3$ 行列 $A, B$ と3次元ベクトル $x$ を次のように定める．
 
-$$A=\begin{pmatrix}1&2&3\\4&5&6\\7&8&9\end{pmatrix}, \ 
-B=\begin{pmatrix}9&8&7\\6&5&4\\3&2&1\end{pmatrix}, \ 
-x=\begin{pmatrix}1\\2\\3\end{pmatrix}.$$
+$$A=\begin{pmatrix}1&2&3 \\\ 4&5&6 \\\ 7&8&9\end{pmatrix}, \ 
+B=\begin{pmatrix}9&8&7 \\\6&5&4 \\\3&2&1\end{pmatrix}, \ 
+x=\begin{pmatrix}1 \\\2 \\\3 \end{pmatrix}.$$
 
 以下の計算結果を出力してください．
 
