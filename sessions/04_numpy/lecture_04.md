@@ -209,7 +209,7 @@ print(np.vstack((P, Q, P))) # 縦にP, Q, Pの順で結合
 
 # 横に結合 (Horizontal: Pの右にくっつける)
 C = np.array([[10], [20]])
-print(np.hstack((A, C)))
+print(np.hstack((P, C)))
 ```
 
 ### 練習問題2
