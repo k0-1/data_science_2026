@@ -132,6 +132,7 @@ $$X\begin{pmatrix}x \\\ y \end{pmatrix}=\begin{pmatrix}1 \\\ 2 \end{pmatrix}$$
 `np.linalg.solve(X, y)`で$\theta$の解が得られる．
 
 ```python
+A = np.array([[2,1], [2,3]])
 np.linalg.solve(A,np.array([1,2]))
 # 出力
 ```
