@@ -136,6 +136,7 @@ hayai_suyasuya = df[df['お手伝い時間(分)'] < 50 and df['睡眠タイプ']
 ```python
 # & を使い、各条件を ( ) で囲んでいる
 hayai_suyasuya = df[(df['お手伝い時間(分)'] < 50) & (df['睡眠タイプ'] == 'すやすや')]
+display(hayai_suyasuya)
 ```
 
 ※なぜカッコが必要なのか？
@@ -234,7 +235,7 @@ display(df)
 列を消去するには`drop(columns=[消去したい列の名前])`を用いる．
 以下のコードを実行すると元のDataFrameが得られる．
 ```python
-df = df.drop(columns=[`お手伝い時間の2倍`])
+df = df.drop(columns=['お手伝い時間の2倍'])
 display(df)
 ```
 
