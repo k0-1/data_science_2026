@@ -10,6 +10,7 @@
 | 第3回 | NumPyを用いた数値計算2 | [lecture_03.md](./sessions/03_numpy/lecture_03.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/03_numpy/lecture_03.ipynb) |
 | 第4回 | NumPyを用いた数値計算3 | [lecture_04.md](./sessions/04_numpy/lecture_04.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/04_numpy/lecture_04.ipynb) |
 | 第5回 | NumPyを用いた数値計算4 | [lecture_05.md](./sessions/05_numpy/lecture_05.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/05_numpy/lecture_05.ipynb) |
+| 第6回 | Pandasを用いたデータ分析1 | [lecture_06.md](./sessions/05_numpy/lecture_05.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/06_pandas/lecture_06.ipynb) |
 
 
 ##  使いかた
