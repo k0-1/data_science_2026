@@ -13,6 +13,7 @@
 | 第6回 | Pandasを用いたデータ分析1 | [lecture_06.md](./sessions/06_pandas/lecture_06.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/06_pandas/lecture_06.ipynb) |
 | 第7回 | Pandasを用いたデータ分析2 | [lecture_07.md](./sessions/07_pandas/lecture_07.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/07_pandas/lecture_07.ipynb) |
 | 第8回 | Pandasを用いたデータ分析3 | [lecture_08.md](./sessions/08_pandas/lecture_08.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/08_pandas/lecture_08.ipynb) |
+| 第9回 | Pandasを用いたデータ分析4 | [lecture_09.md](./sessions/09_pandas/lecture_09.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/09_pandas/lecture_09.ipynb) |
 
 
 ##  使いかた
