@@ -131,7 +131,7 @@ cross_tab_sente_rate.plot.barh(stacked=True)
 
 **手順**
 
-0. `target='taiyo_unajyu'`とおく．
+0. `target='taiyo_unajyu-f'`とおく．
 1. 先手が`target`であるものを集めたデータフレームを`df_target`とする．
 2. `df_target`に対し，df['先手振り飛車'], df['勝者']の関係を割合のクロス表にし，`df_target_crosstab`とする
 3. `df_target_crosstab`を帯グラフにして，画像データ(png)として出力してください．
