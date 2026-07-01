@@ -5,7 +5,7 @@
 
 前回，振り飛車か否かと勝率の関係，あるいは特定の一つのAIについての振り飛車か否かと勝率の関係を可視化した．
 
-実務では，では特定の一つのものだけでなく，同時に複数のもののある性質を比較したいという場面が多くありうる．
+実務では，特定の一つのものだけでなく，同時に複数のもののある性質を比較したいという場面が多くありうる．
 その際にもクロス集計が有効であることを見る．
 
 その例として，今回は先手番と後手番でどう勝率が異なるかについて複数の将棋AIを比較してみたい．
@@ -143,7 +143,7 @@ plt.show()
 ヒント：第10回課題（6/18分）の解答例が参考になります．
 [https://tlms.tsc.u-tokai.ac.jp/pluginfile.php/2749450/mod_resource/content/1/kadai_0618-ans.pdf](https://tlms.tsc.u-tokai.ac.jp/pluginfile.php/2749450/mod_resource/content/1/kadai_0618-ans.pdf)
 
-解答例内の`top20_ai_wrt_number_of_games.head(20)`が
+解答例内の`top20_ai_wrt_number_of_games`が
 対局数ランキングTop20の将棋AIをindexとした対局数を表すSeriesになっています．
 indexをリストにするには，`index.tolist()`というメソッドを用います．
 
