@@ -16,6 +16,7 @@
 | 第9回 | Pandasを用いたデータ分析4 | [lecture_09.md](./sessions/09_pandas/lecture_09.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/09_pandas/lecture_09.ipynb) |
 | 第10回 | Pandasを用いたデータ分析5 | [lecture_10.md](./sessions/10_pandas/lecture_10.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/10_pandas/lecture_10.ipynb) |
 | 第11回 | PandasとScikit-learnを用いたデータ分析6 | [lecture_11.md](./sessions/11_pandas/lecture_11.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/11_pandas/lecture_11.ipynb) |
+| 第12回 | Pandasを用いたデータ分析演習 | [lecture_12.md](./sessions/12_pandas/lecture_12.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k0-1/data_science_2026/blob/main/sessions/12_pandas/lecture_12.ipynb) |
 
 
 ##  使いかた
